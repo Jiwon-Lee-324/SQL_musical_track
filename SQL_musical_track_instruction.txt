@@ -1,0 +1,4 @@
+SQL_musical_track_instruction
+
+1. What is SQL_musical_track?
+This application will read an iTunes export file in XML and produce a properly normalized database.
